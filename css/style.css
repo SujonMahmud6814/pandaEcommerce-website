@@ -1,0 +1,24 @@
+.bg-cat-1 {
+    background-color: orange;
+    color: white;
+}
+.bg-cat-2 {
+    background-color: orchid;
+    color: white;
+}
+.bg-cat-3 {
+    background-color: blue;
+    color: white;
+}
+.color-btn {
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    background-image: linear-gradient(to bottom, #ff136f, #ff589b);
+}
+.color-btn:hover {
+    color: white;
+}
+.price-color {
+    color: #ff136f;
+}
